@@ -1,3 +1,4 @@
+""" Global keyword is required only to change the global vaariables """
 accountName = 'Suvam'
 accountBalance = 100
 accountPassword = 'soup'
